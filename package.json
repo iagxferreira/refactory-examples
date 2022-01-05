@@ -1,0 +1,23 @@
+{
+  "name": "refactory-examples",
+  "version": "1.0.0",
+  "description": "Exemplos de refatoração descritos e (talvez) melhorados, inspirados no livro Refatoração de Martin Fowler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iagxferreira/refactory-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iagxferreira/refactory-examples/issues"
+  },
+  "homepage": "https://github.com/iagxferreira/refactory-examples#readme",
+  "dependencies": {
+    "jest": "^27.4.6"
+  }
+}
